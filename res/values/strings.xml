@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PlayPay</string>
+    <string name="title_activity_main">PlayPay</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string name="action_newaccount">New account</string>
+	<string name="user">User</string>
+	<string name="password">Password</string>
+	<string name="enter">Enter</string>
+</resources>
